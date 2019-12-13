@@ -1,6 +1,6 @@
 # Image Captioning
 
-This project is highly inspired from the tensorflow tutorial on Image Captioning. To build your own model check out the tutorial [here](https://www.tensorflow.org/tutorials/text/image_captioning)
+This project is highly inspired from the tensorflow tutorial on Image Captioning. To learn more on how to build the model, check out the tutorial [here](https://www.tensorflow.org/tutorials/text/image_captioning)
 
 The model was trained using more than half a million captions from MS-COCO dataset.
 ## Example
